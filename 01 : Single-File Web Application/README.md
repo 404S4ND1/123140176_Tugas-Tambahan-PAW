@@ -64,5 +64,3 @@ Kode ini menunjukkan cara kerja dasar framework Pyramid:
 * Mengatur rute dan view menggunakan `Configurator`.
 * Mengembalikan respon ke client melalui `Response`.
 * Menjalankan aplikasi dengan server `waitress`.
-
-Meskipun sederhana, struktur ini sudah mengikuti pola kerja aplikasi web modern berbasis WSGI.

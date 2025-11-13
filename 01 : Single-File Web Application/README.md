@@ -1,7 +1,5 @@
 # Analisis Kode: Single-File Web Application pada Pyramid
 
-Kode ini merupakan contoh aplikasi web sederhana menggunakan framework **Pyramid** dalam satu file Python. Berikut penjelasan mengenai bagian-bagian penting dari kode tersebut:
-
 ```python
 from waitress import serve
 from pyramid.config import Configurator
@@ -64,5 +62,3 @@ Kode ini menunjukkan cara kerja dasar framework Pyramid:
 * Mengatur rute dan view menggunakan `Configurator`.
 * Mengembalikan respon ke client melalui `Response`.
 * Menjalankan aplikasi dengan server `waitress`.
-
-Meskipun sederhana, struktur ini sudah mengikuti pola kerja aplikasi web modern berbasis WSGI.

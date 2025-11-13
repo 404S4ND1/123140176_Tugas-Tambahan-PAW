@@ -2,7 +2,7 @@
 
 Kode ini merupakan lanjutan dari contoh sebelumnya (Single-File Web Application), namun kali ini aplikasi Pyramid dikemas dalam bentuk **Python package** agar lebih terstruktur dan mudah dikembangkan.
 
-Berikut potongan kode utama yang dianalisis:
+kode utama yang dianalisis:
 
 ### setup.py
 
